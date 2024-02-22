@@ -11,7 +11,7 @@
 
 ### 💻 I'm Currently Working On
 - **Credit Risk Modeling:** Executed credit risk assessment through the development of an XGBoost model on a diverse financial dataset.
-- **California Price Predictor**
+- **California House Price Predictor**
 
 ### 🎯 Ask me about (My Skills)
 - Deep Learning
