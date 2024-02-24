@@ -5,7 +5,7 @@
 - I am an experienced **Data-driven Software Engineer** adept at innovating in risk management and fraud detection within the financial sector. Skilled in **Python**, **PowerBI**, and **Machine learning**, with a track record of designing impactful solutions. From predictive analysis to targeted marketing campaigns, I thrive on leveraging data to enhance investor confidence and mitigate risks. **Google Data Analytics Certified** and **Microsoft Azure Cloud Specialist**, I bring a unique blend of technical expertise and strategic insight to drive growth and security in fintech.
 
 - I am passionate about  **Data Science**, **Data Analysis** and **Full Stack Web & App Development**, just to witness both of these fields making an impact on our daily lives baffles me and feeds into my curiosity.
-
+  
 - I am also a **Full Stack Web Developer** having experience with **Java, SpringBoot, Angular, DynamoDB & AWS**, I have worked on a banking project for different microservices to enhance the functionalities and performance created in Java SpringBoot. Took individual ownership of tasks and took lead in certain tasks along with did some critical prod fixes that has improved the perfromance. Having experience of AWS for migration of microservice from PCF to ECS and DynamoDB, Cloudwatch, cloudformation for analyzing logs. Migrated microservice from Spring 4 to 5 and siteminder authentication to OAuth to boost the performance by 35%. I can work well within constructs of Agile development process, include SCRUM, client meetings. Experience with Junit, Integration, E2E, Automated Security Tests, Cucumber and feature files. Worked on complete CI/CD pipeline from code build to deployment to production.
 
 
