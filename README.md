@@ -1,6 +1,6 @@
 
 ### <h1>Hi there, I am Devansh Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  
+    
 ### 👤 About Me
 - I am an experienced **Data-driven Software Engineer** adept at innovating in risk management and fraud detection within the financial sector. Skilled in **Python**, **PowerBI**, and **Machine learning**, with a track record of designing impactful solutions. From predictive analysis to targeted marketing campaigns, I thrive on leveraging data to enhance investor confidence and mitigate risks. **Google Data Analytics Certified** and **Microsoft Azure Cloud Specialist**, I bring a unique blend of technical expertise and strategic insight to drive growth and security in fintech.
 
